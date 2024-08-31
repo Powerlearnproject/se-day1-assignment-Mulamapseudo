@@ -36,15 +36,21 @@ They Streamline the development process by providing a centralized, feature-rich
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Requirements may change frequently due to evolving business needs- Adopt the Agile methodology.
 Identifying and fixing bugs can be time-consuming and complex. They can use some debugging tools to assist them.
-
+As software systems grow, their complexity can make them difficult to manage and understand, leading to increased risk of errors and maintenance challenges.- One can use the modular method whereby they break the program into small manageble units.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit testing involves testing the components individually to ensure tey work correctly. This helps to fix errors at erly stages.
+Intergration testing involves combining individual elements together and testing them as a whole to ensure they work efficiently together to acheive a system functionality.
+System testing- testing the entire application as a whole to ensure that it meets the specified requirements and performs its intended functions. 
+Acceptance testing this is obtained from the user perspectives to ensure the software meets the user requirements/needs.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Propmpt Engineering this is process of using defined input to AI so that they can be accurate and relevant. It enhances Clarity and accuracy in the responses given by the Artificial Intelligence.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Describe a government.(Vague Prompt)
+Describe the types of government in Kenya.(Improved Prompt)
+It gives a clear defination of the types of government available in a specific country we have not generalized.
